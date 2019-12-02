@@ -1,0 +1,11 @@
+{
+  "name": "guilherme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Guilherme Pontes",
+  "license": "The Unlicense",
+  "dependencies": {
+    "terminal-image": "sindresorhus/terminal-image#14/head"
+  }
+}
